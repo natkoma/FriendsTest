@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="not_photo">У пользователя нет фотографий</string>
+    <string name="not_result">Не удалось получить фотографии пользователя</string>
+</resources>
